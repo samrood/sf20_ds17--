@@ -1,5 +1,5 @@
 
-# Welcome CityName DS 99!
+# Welcome San Francisco DS 17!
 
 :wave:
 
@@ -9,12 +9,12 @@
 |------|-------|  
 
 ---
-| **Course ID**     |  city99_ds99    |
+| **Course ID**     |  SF20_ds17    |
 |:------|:-------|
-| **Section**   | Summer 2099 - Cohort 99  |  
-| **City**  | CityName |
-| **Dates** | 01-January-2019 to 31-December-2019   |
-| **Slack** |  [ds99 team](https://Summer-city99-metis.slack.com/) (use the [app](https://slack.com/downloads)) |
+| **Section**   | Winter 2020 - Cohort 17  |  
+| **City**  | San Francisco |
+| **Dates** | 06-January-2020 to 27-March-2020   |
+| **Slack** |  [ds17 team](https://Winter-SF20-metis.slack.com/) (use the [app](https://slack.com/downloads)) |
 | **Senior Data Scientists** |  [First Last](https://www.linkedin.com/in/first-last), [Another Name](https://www.linkedin.com/in/anothermname), [One More](https://www.linkedin.com/in/onemore123) |
 
 ### Quick Links:
