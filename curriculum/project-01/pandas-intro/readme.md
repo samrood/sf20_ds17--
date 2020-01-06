@@ -24,4 +24,3 @@ By the end of this lecture, the students should know:
 * Data Types
 * Mutability
 
-# Additional Resources

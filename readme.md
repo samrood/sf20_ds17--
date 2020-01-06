@@ -15,7 +15,7 @@
 | **City**  | San Francisco |
 | **Dates** | 06-January-2020 to 27-March-2020   |
 | **Slack** |  [ds17 team](https://Winter-SF20-metis.slack.com/) (use the [app](https://slack.com/downloads)) |
-| **Senior Data Scientists** |  [Trevor](https://www.linkedin.com/in/first-last), [Richard](https://www.linkedin.com/in/anothermname), [Omar](https://www.linkedin.com/in/onemore123) |
+| **Senior Data Scientists** |  [Trevor](https://www.linkedin.com/in/drummondtrevor), [Richard](https://www.linkedin.com/in/anothermname), [Omar](https://www.linkedin.com/in/onemore123) |
 
 ### Quick Links:
 
